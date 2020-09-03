@@ -1,5 +1,4 @@
-# todolist
-
+# todolist by Vue
 ## Project setup
 ```
 yarn install
